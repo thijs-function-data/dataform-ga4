@@ -1,0 +1,6 @@
+{
+  "name": "dataform-ga4",
+  "dependencies": {
+    "@dataform/core": "2.0.1"
+  }
+}
